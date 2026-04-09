@@ -1,4 +1,2 @@
-flask
-flask-cors
-gunicorn
-openpyxl
+streamlit>=1.32.0
+openpyxl>=3.1.0
